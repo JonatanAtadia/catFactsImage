@@ -1,4 +1,6 @@
-## Technical Test for React Juniors and Trainees in Live Coding.
+## CatFactsImage
+
+The CatFactsImage is a web application developed in React that combines random cat facts with cat images. It uses two different APIs: one to fetch random cat facts and another to fetch cat images along with the first 3 words of the retrieved fact.
 
 APIs:
 
