@@ -6,3 +6,7 @@ APIs:
 - Imagen Random: https://cataas.com/cat/says/hello
 
 Retrieve a random cat fact from the first API and display an image of a cat with the first word of the retrieved fact using the second API.
+
+## App
+
+![An example of how the application looks](exampleApp.png)
